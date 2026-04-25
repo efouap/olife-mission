@@ -32,3 +32,13 @@ MIT — open source, use it, build on it.
 - **Creator:** Eduardo Fabricio Ojeda Vargas  
 - **Email:** olife.mission@proton.me  
 - **Mission:** *"AI displaced you. AI will help restore your dignity."*
+
+
+## Token Contract — Live on Polygon
+
+- **Contract:** 0x14692FAB14906C9c792C7a10A5bfC2F81691Ac5F
+- **Network:** Polygon Mainnet (chainId 137)
+- **Polygonscan:** https://polygonscan.com/token/0x14692FAB14906C9c792C7a10A5bfC2F81691Ac5F
+- **Symbol:** OLIFE
+- **Total Supply:** 1,000,000,000
+- **Deployed:** April 25, 2026
